@@ -1,4 +1,4 @@
 # Computo-cientifico proyecto
 
-## Descripción: Por definir
+## Descripción: Este proyecto aun no se define que se hara, tengo mis dudas sobre el tema
 
